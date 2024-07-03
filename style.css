@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    min-height: 100vh;
+    background: #212121;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-element {
+    height: 200px;
+    width: 200px;
+    line-height: 200px;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+.flex-element-1 {
+    background: #f44336;
+}
+
+.flex-element-2 {
+    background: #4527A0;
+}
+
+.flex-element-3 {
+    background: #FF8F00;
+}
+
+.flex-element-4 {
+    background: #D84315;
+}
